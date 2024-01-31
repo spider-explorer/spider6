@@ -1,0 +1,29 @@
+{
+    "version": "2023.08.27.14.29.39",
+    "description": "",
+    "homepage": "",
+    "license": "MIT",
+    "depends": [
+    ],
+    "url": [
+        "https://github.com/spider-explorer/spider5/releases/download/v2023.08.27.14.29.39/spider-v2023.08.27.14.29.39.zip"
+    ],
+    "hash": [
+        "0ee5137be007de933ccc2a1831236e9c52ecd4443923414687526fe926275256"
+    ],
+    "bin": [
+        [
+            "boot4-x86_64-static.exe",
+            "spider2",
+            "--dumy"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "boot5-x86_64-static.exe",
+            "Spider2",
+            "--dummy"
+        ]
+    ],
+    "persist": "temp"
+}
